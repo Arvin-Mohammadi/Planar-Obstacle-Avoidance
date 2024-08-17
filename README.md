@@ -83,9 +83,19 @@ For using the Yolo-V5 we're going to take the following steps:
 - Installing Pytorch and Cuda
 - Use the Default Yolo-V5 Model
 
-[<ins>Step 1: Python Virtual Environment Setup</ins>](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/tree/main/Research/Python%20Virtual%20Environment)
 
-<ins>Step 2: Installing Pytorch and Cuda</ins>
+</br>
+<p align="center">
+	<strong><ins><a href="https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/tree/main/Research/Python%20Virtual%20Environment">Step 1: Python Virtual Environment Setup</a></ins></strong>
+</p>
+</br>
+
+</br>
+<p align="center">
+	<strong><ins>Step 2: Installing Pytorch and Cuda</ins></strong>
+</p>
+</br>
+
 
 
 
