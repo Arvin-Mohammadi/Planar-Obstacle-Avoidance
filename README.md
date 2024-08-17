@@ -96,8 +96,20 @@ For using the Yolo-V5 we're going to take the following steps:
 </p>
 </br>
 
+First go to the [Pytorch Local Installation](https://pytorch.org/get-started/locally/) address. In the following section choose the appropriate installation version for your computer. Copy the output command and run it in your Virtual Env.
+
+![image](https://github.com/user-attachments/assets/cd2244f5-8eca-4c03-b970-f91494ca6c5c)
+
+For installing the GPU-activated version you'll need cuda which you can find in the [CUDA Download Page](https://developer.nvidia.com/cuda-11-8-0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_local)
 
 
+</br>
+<p align="center">
+	<strong><ins>Step 3: Use the Default Yolo-V5 Model</ins></strong>
+</p>
+</br>
+
+The following jupyter notebook contains the code necessary for Using Yolo-V5 for a given image.
 
 
 
