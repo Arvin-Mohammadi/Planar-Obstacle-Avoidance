@@ -90,6 +90,8 @@ For using the Yolo-V5 we're going to take the following steps:
 </p>
 </br>
 
+it is advised to setup a virtual environment before using Pytorch and Cuda.
+
 </br>
 <p align="center">
 	<strong><ins>Step 2: Installing Pytorch and Cuda</ins></strong>
