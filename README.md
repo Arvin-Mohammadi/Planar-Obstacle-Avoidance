@@ -113,7 +113,12 @@ For installing the GPU-activated version you'll need cuda which you can find in 
 
 The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary for Using Yolo-V5 for a given image.
 
-![image](https://github.com/user-attachments/assets/53326845-e5d0-46df-be72-8a6999ef46e5)
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/53326845-e5d0-46df-be72-8a6999ef46e5">
+</div>
+</br>
+
 
 
 
