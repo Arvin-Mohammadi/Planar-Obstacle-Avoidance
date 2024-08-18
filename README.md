@@ -154,7 +154,7 @@ A search algorithm that is typically used for finding the path in graph, or in t
 <div align="center">
  	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" width=50%>
 	</br>
-	BFS Algorithm ([img reference](https://en.wikipedia.org/wiki/Breadth-first_search))
+	BFS Algorithm <a href="https://en.wikipedia.org/wiki/Breadth-first_search">img reference</a>
 </div>
 </br>
 
