@@ -221,6 +221,34 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 
 
 
+<a name="section-obstacle-avoidance"></a>
+# Obstacle Avoidance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a name="section-references"></a>
 # References
 
