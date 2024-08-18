@@ -151,14 +151,14 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 
 </br>
 <div align="center">
- 	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8">
+ 	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" style="width: 50%;">
 </div>
 </br>
 
 
 </br>
 <div align="center">
- 	<img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e">
+ 	<img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e" style="width: 50%;">
 </div>
 </br>
 
