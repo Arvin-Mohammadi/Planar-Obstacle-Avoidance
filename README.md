@@ -148,10 +148,19 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 <a name="section-grid-problem"></a>
 # Grid Problem and Search Algorithms
 
-![image](https://github.com/user-attachments/assets/b88349df-d841-4237-81de-81bbd049046a)
+
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8">
+</div>
+</br>
 
 
-![image](https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e)
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e">
+</div>
+</br>
 
 
 
