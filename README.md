@@ -151,7 +151,7 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 A search algorithm that is typically used for finding the path in graph, or in this case a grid-world, is called Breath-First Search (BFS) Algorithm. The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary code for using BFS Algorithm in a grid-world under the section "Grid Search". 
 
 
-|                     <img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" width: 85%>                     |                     <img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e" width: 85%>                    |
+|                     <img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" width=85%>                     |                     <img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e" width=85%>                    |
 |:--------------------------------------------:|:-------------------------------------------:|
 |     BFS Algorithm (<a href="https://en.wikipedia.org/wiki/Breadth-first_search">img ref</a>)     | BFS algorithm grid-world implementation  |
 
