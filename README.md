@@ -114,7 +114,7 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 
 </br>
 <div align="center">
- 	<img src="https://github.com/user-attachments/assets/53326845-e5d0-46df-be72-8a6999ef46e5">
+ 	<img src="https://github.com/user-attachments/assets/53326845-e5d0-46df-be72-8a6999ef46e5" width=100%>
 </div>
 </br>
 
