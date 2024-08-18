@@ -13,7 +13,6 @@
 Overview: 
 - [introduction](#section-introduction)
 - [object detection](#section-object-detection)
-- [grid modeling](#section-grid-modeling)
 - [grid problem](#section-grid-problem)
 - [trajectory generation](#section-trajectory-generation)
 - [references](#section-references)
@@ -78,7 +77,7 @@ Here's the overall idea for a 2D-viewed obstacle avoidance algorithm.
 <a name="section-object-detection"></a>
 # Object Detection
 
-For using the Yolo-V5 we're going to take the following steps:
+For using the Yolo-V5 we're going to take the following steps ([Reference](#reference-yolov5)):
 - Python Virtual Environment Setup
 - Installing Pytorch and Cuda
 - Use the Default Yolo-V5 Model
@@ -119,24 +118,6 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 </div>
 </br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="section-grid-modeling"></a>
-# Plane to Grid Modeling
 
 
 
@@ -224,7 +205,8 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 <a name="section-references"></a>
 # References
 
-
+<a name="reference-yolov5"></a>
+[1] [YOLO-V5 Ultralytics](https://github.com/ultralytics/yolov5)
 
 
 
