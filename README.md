@@ -13,7 +13,6 @@
 Overview: 
 - [introduction](#section-introduction)
 - [object detection](#section-object-detection)
-- [grid modeling](#section-grid-modeling)
 - [grid problem](#section-grid-problem)
 - [trajectory generation](#section-trajectory-generation)
 - [references](#section-references)
@@ -78,7 +77,7 @@ Here's the overall idea for a 2D-viewed obstacle avoidance algorithm.
 <a name="section-object-detection"></a>
 # Object Detection
 
-For using the Yolo-V5 we're going to take the following steps:
+For using the Yolo-V5 we're going to take the following steps ([Reference #1](#reference-yolov5)):
 - Python Virtual Environment Setup
 - Installing Pytorch and Cuda
 - Use the Default Yolo-V5 Model
@@ -111,26 +110,14 @@ For installing the GPU-activated version you'll need cuda which you can find in 
 </p>
 </br>
 
-The following jupyter notebook contains the code necessary for Using Yolo-V5 for a given image.
+The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary code for using Yolo-V5 for a given image under the section "Object Detection". 
 
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/53326845-e5d0-46df-be72-8a6999ef46e5" width=100%>
+</div>
+</br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="section-grid-modeling"></a>
-# Plane to Grid Modeling
 
 
 
@@ -161,6 +148,25 @@ The following jupyter notebook contains the code necessary for Using Yolo-V5 for
 <a name="section-grid-problem"></a>
 # Grid Problem and Search Algorithms
 
+A search algorithm that is typically used for finding the path in graph, or in this case a grid-world, is called Breath-First Search (BFS) Algorithm. 
+
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" width=50%>
+	</br>
+	BFS Algorithm ([img reference](https://en.wikipedia.org/wiki/File:BFS-Algorithm_Search_Way.gif))
+</div>
+</br>
+
+
+The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary code for using BFS Algorithm in a grid-world under the section "Grid Search". 
+
+
+</br>
+<div align="center">
+ 	<img src="https://github.com/user-attachments/assets/cf402a1e-15c6-4d04-b080-65242266548e" width=50%>
+</div>
+</br>
 
 
 
@@ -218,7 +224,8 @@ The following jupyter notebook contains the code necessary for Using Yolo-V5 for
 <a name="section-references"></a>
 # References
 
-
+<a name="reference-yolov5"></a>
+[1] [YOLO-V5 Ultralytics](https://github.com/ultralytics/yolov5)
 
 
 
