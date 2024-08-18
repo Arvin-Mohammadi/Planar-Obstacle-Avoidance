@@ -77,7 +77,7 @@ Here's the overall idea for a 2D-viewed obstacle avoidance algorithm.
 <a name="section-object-detection"></a>
 # Object Detection
 
-For using the Yolo-V5 we're going to take the following steps ([Reference](#reference-yolov5)):
+For using the Yolo-V5 we're going to take the following steps ([Reference #1](#reference-yolov5)):
 - Python Virtual Environment Setup
 - Installing Pytorch and Cuda
 - Use the Default Yolo-V5 Model
