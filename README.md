@@ -110,7 +110,7 @@ For installing the GPU-activated version you'll need cuda which you can find in 
 </p>
 </br>
 
-The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary for Using Yolo-V5 for a given image.
+The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary code for using Yolo-V5 for a given image under the section "Object Detection". 
 
 </br>
 <div align="center">
@@ -148,12 +148,18 @@ The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obsta
 <a name="section-grid-problem"></a>
 # Grid Problem and Search Algorithms
 
+A search algorithm that is typically used for finding the path in graph, or in this case a grid-world, is called Breath-First Search (BFS) Algorithm. 
 
 </br>
 <div align="center">
  	<img src="https://github.com/user-attachments/assets/0194d572-a7a0-4bb5-b729-2419bba5eaa8" width=50%>
+	</br>
+	BFS Algorithm ([img reference](https://en.wikipedia.org/wiki/File:BFS-Algorithm_Search_Way.gif))
 </div>
 </br>
+
+
+The following [jupyter notebook](https://github.com/Arvin-Mohammadi/Planar-Obstacle-Avoidance/blob/main/Code/Obstacle%20Avdoidance.ipynb) contains the code necessary code for using BFS Algorithm in a grid-world under the section "Grid Search". 
 
 
 </br>
